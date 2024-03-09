@@ -1,4 +1,6 @@
 # INF653MidtermProject
+Author - Janelle Holcomb
+GitHub Profile URL*
 
 INF653MidtermProject is a PHP-based RESTful API for managing and retrieving famous quotes and user submissions. Built with PHP and PostgreSQL, it provides endpoints for CRUD operations on quotes, authors, and categories, ensuring data integrity and compatibility with various clients and applications.
 
@@ -18,7 +20,7 @@ Endpoints:
 /authors/: Retrieve all authors or filter by ID.
 /categories/: Retrieve all categories or filter by ID.
 Support for POST, PUT, and DELETE requests to create, update, or delete quotes, authors, and categories.
-Project URL: 
+Project URL: *
 
 Contributing:
 This project is not open for contributions. 
