@@ -4,25 +4,8 @@
 /config/app.php
 
 # Ignore sensitive files
-/MidtermProjectPractice/api/authors/create.php
-/MidtermProjectPractice/api/authors/delete.php
-/MidtermProjectPractice/api/authors/index.php
-/MidtermProjectPractice/api/authors/read.php
-/MidtermProjectPractice/api/authors/update.php
-/MidtermProjectPractice/api/categories/create.php
-/MidtermProjectPractice/api/categories/delete.php
-/MidtermProjectPractice/api/categories/index.php
-/MidtermProjectPractice/api/categories/read.php
-/MidtermProjectPractice/api/categories/update.php
+
 /MidtermProjectPractice/api/config/database.php
-/MidtermProjectPractice/api/index.php
-/MidtermProjectPractice/api/quotes/create.php
-/MidtermProjectPractice/api/quotes/delete.php
-/MidtermProjectPractice/api/quotes/index.php
-/MidtermProjectPractice/api/quotes/read.php
-/MidtermProjectPractice/api/quotes/update.php
-/MidtermProjectPractice/api/replit.nix
-/MidtermProjectPractice/replit.nix
 /MidtermProjectPractice/replit_zip_error_log.txt
 
 
