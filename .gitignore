@@ -6,7 +6,6 @@
 # Ignore sensitive files
 
 /MidtermProjectPractice/api/config/database.php
-/MidtermProjectPractice/replit_zip_error_log.txt
 
 
 /tmp/cache/models/*
